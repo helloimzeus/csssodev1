@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-size: 50px;
+}
+.UlContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+}
+.General{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style-position: inside;
+}
